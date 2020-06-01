@@ -11,13 +11,13 @@
   <artifactId>CreateOrderService.application</artifactId>
   <packaging>bwear</packaging>
   <properties>
-		<agentHost>0.0.0.0</agentHost>
-		<agentPort>9091</agentPort>
+		<agentHost>HP</agentHost>
+		<agentPort>8079</agentPort>
 		<agentUsername>username</agentUsername>
 		<agentPassword>password</agentPassword>
-		<domain>HT</domain>
-		<appSpace>SAP</appSpace>
-		<appNode>SAP_N01</appNode>
+		<domain>DEV</domain>
+		<appSpace>OMS</appSpace>
+		<appNode>OMS_N01</appNode>
 		<httpPort>2001</httpPort>
 		<profile>default.substvar</profile>		
   </properties>
