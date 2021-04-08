@@ -1,10 +1,10 @@
-package com.ms.aws.im.createorderservice;
+package com.javatechie.aws.cicd.example;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CreateOrderServiceApplicationTests {
+class OrderServiceApplicationTests {
 
 	@Test
 	void contextLoads() {
