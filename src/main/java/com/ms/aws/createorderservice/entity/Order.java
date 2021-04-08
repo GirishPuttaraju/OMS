@@ -15,5 +15,5 @@ public class Order {
 	private String orderName;
 	private String orderType;
 	private int qty;
-	private int price;
+	private long price;
 }
